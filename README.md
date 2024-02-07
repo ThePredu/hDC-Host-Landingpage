@@ -3,8 +3,6 @@
 
 > Status: Completo ✅
 
-### Página web desenvolvida por min como um desafio. 
-
 > Feito com HTML e CSS puro com resposividade para alguns dispositivos.
 
 ## Conteudos abordados durante o desenvolvimento 📝
